@@ -170,13 +170,13 @@ https://github.com/ye-zi-ming/SCI-CAST
 
 ## Author / 作者
 
-**YeZM** — Fujian Normal University / 福建师范大学
+**YeZM**
 
 [Google Scholar](https://scholar.google.com/citations?user=LQAiqTIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6728-2952) · [GitHub](https://github.com/ye-zi-ming)
 
-Researcher in computational chemistry and materials science, working with metal-organic frameworks since 2014. SCI-CAST grew out of years of scattered scripts and tools — a practical toolkit built by a researcher, for researchers.
+A researcher who spent too many years switching between the bench and the terminal. SCI-CAST grew out of scattered scripts and small tools — finally put together into one place.
 
-计算化学与材料科学研究者，2014 年起从事金属有机框架研究。SCI-CAST 源于多年零散的脚本和工具——一个研究者为研究者打造的实用工具箱。
+一个在实验台和电脑之间来回切换了太多年的科研人。SCI-CAST 源于多年零散的脚本和小工具——终于整合到了一处。
 
 ---
 
